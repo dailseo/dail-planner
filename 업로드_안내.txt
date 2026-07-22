@@ -1,0 +1,18 @@
+지금 GitHub 업로드 화면에서 해야 할 일
+
+1. 이 ZIP 파일의 압축을 풉니다.
+2. 압축을 푼 dail-planner-react 폴더를 엽니다.
+3. 폴더 자체가 아니라 안에 있는 파일과 폴더를 모두 선택합니다.
+   - .github
+   - public
+   - src
+   - .gitignore
+   - index.html
+   - package.json
+   - README.md
+   - vite.config.js
+4. GitHub의 큰 업로드 영역에 모두 끌어놓습니다.
+5. 파일 목록이 표시되면 아래 초록색 Commit changes를 누릅니다.
+
+다음 단계:
+Settings → Pages → Source에서 GitHub Actions를 선택합니다.
